@@ -1,6 +1,6 @@
 provider {
     aws = {
-        region = ""
+        region = "us-east-2"
     }
 }
 
